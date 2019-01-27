@@ -1,4 +1,4 @@
-Agenda  git og GitHub
+### Agenda  git og GitHub
 
 Læringsmålene for i dag og næste tirsdag er følgende:
 
