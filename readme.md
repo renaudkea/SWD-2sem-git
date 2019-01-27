@@ -1,13 +1,14 @@
-### Agenda  git og GitHub
+#### Agenda  git og GitHub
 
-Læringsmålene for i dag og næste tirsdag er følgende:
+## Goal for today :
+•	Repetition of last semester – init, add, commit, push.
+•	Pull
+•	Branches
+•	Merging
+•	Pull and merge conflicts
+•	Forking & Pull Requests
 
-Gennemgang af det i lærte og arbejde med sidste semester.
-Pull
-Branches
-Merging
-Pull and merge conflicts
-Forking & Pull Requests
+
 Øvelser
 Øvelse 1
 Øvelse 2
